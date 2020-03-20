@@ -1,0 +1,10 @@
+$settings['REPLACECHANNELNAMEHERE'] = [
+        'channel' => 'REPLACECHANNELNAMEHERE',
+        'database' => 'REPLACEDBPATHHERE',
+        'mainpage' => './',
+        'maxrows_people_month' => 10,
+        'maxrows_people_timeofday' => 10,
+        'maxrows_people_year' => 10,
+        'rankings' => true,
+        'timezone' => 'America/Detroit',
+        'userstats' => true];
