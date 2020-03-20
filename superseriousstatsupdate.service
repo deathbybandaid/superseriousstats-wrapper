@@ -1,0 +1,11 @@
+[Unit]
+Description=superseriousstats update service
+
+[Service]
+User=root
+Restart=always
+RestartSec=1800s
+ExecStart=/bin/bash /home/statsupdate.sh
+
+[Install]
+WantedBy=default.target
