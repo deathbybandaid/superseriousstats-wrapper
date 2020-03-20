@@ -1,0 +1,7 @@
+</html>
+
+<script>
+function OpenLink(NewURL) {
+    window.open(NewURL, "_self");
+}
+</script>
